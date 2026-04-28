@@ -1,5 +1,5 @@
 ThisBuild / scalaVersion     := "2.13.12"
-ThisBuild / version          := "0.1.0"
+ThisBuild / version          := "0.1.1"
 ThisBuild / organization     := "org.pantalasa"
 
 ThisBuild / crossScalaVersions := Seq("2.13.12", "3.3.1")
