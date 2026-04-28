@@ -7,3 +7,4 @@ Test Scala component for the Cronos demo environment. Exercises the Lunar
 - **Scala:** 2.13.12 (cross-build with 3.3.1)
 - **Frameworks:** Spark, Cats, Akka
 - **Tests:** ScalaTest + MUnit
+
